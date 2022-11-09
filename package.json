@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-cli-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lifeofscarlet99/nodejs-cli-hw-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lifeofscarlet99/nodejs-cli-hw-01/issues"
+  },
+  "homepage": "https://github.com/lifeofscarlet99/nodejs-cli-hw-01#readme",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "nanoid": "^4.0.0",
+    "nodemon": "^2.0.20",
+    "yargs": "^17.6.2"
+  }
+}
