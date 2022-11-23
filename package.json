@@ -19,7 +19,7 @@
   "homepage": "https://github.com/lifeofscarlet99/nodejs-cli-hw-01#readme",
   "dependencies": {
     "commander": "^9.4.1",
-    "nanoid": "^4.0.0",
+    "nanoid": "3.0.0",
     "nodemon": "^2.0.20",
     "yargs": "^17.6.2"
   }
